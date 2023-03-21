@@ -52,6 +52,9 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
+  background-color: #324943;
+  border-color: #324943;
+  color: white;
 }
 
 .texto-negro {
